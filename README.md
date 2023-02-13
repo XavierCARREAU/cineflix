@@ -1,2 +1,2 @@
 # CINEFIX
-Projet scolaire Bacelor CSI "DevOps" 2023
+Projet scolaire Bachelor CSI "DevOps" 2023
